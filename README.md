@@ -10,4 +10,5 @@
 
 ![alt text](https://github.com/techinologic/PoemWriter/blob/master/poemwriterdemo.gif)
 ![alt text](https://github.com/techinologic/PoemWriter/blob/master/ss2.PNG)
+![alt text](https://github.com/techinologic/PoemWriter/blob/master/ss3.PNG)
 ![alt text](https://github.com/techinologic/PoemWriter/blob/master/ss1.PNG)
